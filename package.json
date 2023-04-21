@@ -1,0 +1,23 @@
+{
+  "name": "microservices_twp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se7enteenblue/microservices_TWP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se7enteenblue/microservices_TWP/issues"
+  },
+  "homepage": "https://github.com/se7enteenblue/microservices_TWP#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
